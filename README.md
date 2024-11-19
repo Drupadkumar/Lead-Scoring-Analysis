@@ -2,7 +2,7 @@
 
 ## Team Members
 - **Nishanth Fiona** 
-- **Drupad Kumar**
+- **Drupad Kumar Muthyala**
 - **Radhakrishnan**
 
 ## Project Objective
